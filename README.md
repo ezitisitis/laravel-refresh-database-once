@@ -4,6 +4,8 @@ This package contains Trait to refresh and seed database before running test sco
 
 ## Installing
 
+1. `composer require --dev ezitisitis/laravel-refresh-database-once`
+
 Add use to `TestCase` class. Congratulations, you are done.
 
 Example:
