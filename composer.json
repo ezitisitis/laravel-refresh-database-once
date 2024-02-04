@@ -1,0 +1,21 @@
+{
+    "name": "ezitisitis/laravel-refresh-database-once",
+    "type": "library",
+    "require": {
+        "php": "^8.2",
+        "laravel/framework": "^6.0|^7.0|^8.0|^9.0|^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EzitisItIs\\LaravelRefreshDatabaseOnce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marks Bogdanovs",
+            "email": "mail@ezitisitis.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
