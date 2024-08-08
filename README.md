@@ -23,3 +23,7 @@ abstract class TestCase extends BaseTestCase
     use MigrateFreshSeedOnce;
 }
 ```
+
+## Credits
+
+- [Marks Bogdanovs](https://www.ezitisitis.com)
