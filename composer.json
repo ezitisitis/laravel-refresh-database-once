@@ -17,5 +17,15 @@
             "email": "mail@ezitisitis.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/ezitisitis"
+        },
+        {
+            "type": "buy_me_a_coffee",
+            "url": "https://buymeacoffee.com/ezitisitis"
+        }
+    ]
 }
