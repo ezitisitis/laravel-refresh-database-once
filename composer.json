@@ -14,7 +14,9 @@
     "authors": [
         {
             "name": "Marks Bogdanovs",
-            "email": "mail@ezitisitis.com"
+            "email": "mail@ezitisitis.com",
+            "homepage": "https://www.ezitisitis.com",
+            "role": "maintainer"
         }
     ],
     "minimum-stability": "dev",
