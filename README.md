@@ -1,5 +1,7 @@
 # Laravel DB refresh
 
+**⚠️ Notice: This project is no longer maintained. As a replacement please use [RefreshDatabase](https://laravel.com/docs/12.x/database-testing#resetting-the-database-after-each-test).**
+
 This package contains Trait to refresh and seed database before running test scope.
 
 ## Why do you need that
@@ -35,3 +37,4 @@ abstract class TestCase extends BaseTestCase
 ## Credits
 
 - [Marks Bogdanovs](https://www.ezitisitis.com)
+- [Net service](https://www.netservice.dev)
